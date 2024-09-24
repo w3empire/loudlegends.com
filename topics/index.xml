@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lista de todos os tópicos do site NewMetal.com.br on Loud Legends</title>
+    <link>https://loudlegends.com/topics/</link>
+    <description>Recent content in Lista de todos os tópicos do site NewMetal.com.br on Loud Legends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Aug 2024 22:45:41 -0300</lastBuildDate><atom:link href="https://loudlegends.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>news</title>
+      <link>https://loudlegends.com/topics/news/</link>
+      <pubDate>Fri, 30 Aug 2024 22:45:41 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stryper</title>
+      <link>https://loudlegends.com/topics/stryper/</link>
+      <pubDate>Fri, 30 Aug 2024 22:45:41 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/stryper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /search/
+Disallow: /de/search/
+Disallow: /fr/search/
+Disallow: /it/search/
+Disallow: /en/search/
+Disallow: /pt/search/
+Disallow: /es/search/
+Disallow: /ru/search/
+Disallow: /ja/search/
+Disallow: /zh-cn/search/
+Disallow: /ko/search/
