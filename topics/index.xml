@@ -1,27 +1,324 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lista de todos os tópicos do site NewMetal.com.br on Loud Legends</title>
+    <title>Loud Legends: All Our Rock &amp; Metal Topics in One Place on Loud Legends</title>
     <link>https://loudlegends.com/topics/</link>
-    <description>Recent content in Lista de todos os tópicos do site NewMetal.com.br on Loud Legends</description>
+    <description>Recent content in Loud Legends: All Our Rock &amp; Metal Topics in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Aug 2024 22:45:41 -0300</lastBuildDate><atom:link href="https://loudlegends.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2024 16:44:52 -0300</lastBuildDate><atom:link href="https://loudlegends.com/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>news</title>
-      <link>https://loudlegends.com/topics/news/</link>
-      <pubDate>Fri, 30 Aug 2024 22:45:41 -0300</pubDate>
+      <title>black-metal</title>
+      <link>https://loudlegends.com/topics/black-metal/</link>
+      <pubDate>Fri, 11 Oct 2024 16:44:52 -0300</pubDate>
       
-      <guid>https://loudlegends.com/topics/news/</guid>
+      <guid>https://loudlegends.com/topics/black-metal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>stryper</title>
-      <link>https://loudlegends.com/topics/stryper/</link>
-      <pubDate>Fri, 30 Aug 2024 22:45:41 -0300</pubDate>
+      <title>cradle-of-filth</title>
+      <link>https://loudlegends.com/topics/cradle-of-filth/</link>
+      <pubDate>Fri, 11 Oct 2024 16:44:52 -0300</pubDate>
       
-      <guid>https://loudlegends.com/topics/stryper/</guid>
+      <guid>https://loudlegends.com/topics/cradle-of-filth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dani-filth</title>
+      <link>https://loudlegends.com/topics/dani-filth/</link>
+      <pubDate>Fri, 11 Oct 2024 16:44:52 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/dani-filth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>death-metal</title>
+      <link>https://loudlegends.com/topics/death-metal/</link>
+      <pubDate>Fri, 11 Oct 2024 16:44:52 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/death-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gothic-metal</title>
+      <link>https://loudlegends.com/topics/gothic-metal/</link>
+      <pubDate>Fri, 11 Oct 2024 16:44:52 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/gothic-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agnostic-front</title>
+      <link>https://loudlegends.com/topics/agnostic-front/</link>
+      <pubDate>Thu, 10 Oct 2024 20:49:44 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/agnostic-front/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardcore-punk</title>
+      <link>https://loudlegends.com/topics/hardcore-punk/</link>
+      <pubDate>Thu, 10 Oct 2024 20:49:44 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/hardcore-punk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new-york-hardcore</title>
+      <link>https://loudlegends.com/topics/new-york-hardcore/</link>
+      <pubDate>Thu, 10 Oct 2024 20:49:44 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/new-york-hardcore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>roger-miret</title>
+      <link>https://loudlegends.com/topics/roger-miret/</link>
+      <pubDate>Thu, 10 Oct 2024 20:49:44 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/roger-miret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>roger-miret-and-the-disasters</title>
+      <link>https://loudlegends.com/topics/roger-miret-and-the-disasters/</link>
+      <pubDate>Thu, 10 Oct 2024 20:49:44 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/roger-miret-and-the-disasters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the-alligators</title>
+      <link>https://loudlegends.com/topics/the-alligators/</link>
+      <pubDate>Thu, 10 Oct 2024 20:49:44 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/the-alligators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todd-huber</title>
+      <link>https://loudlegends.com/topics/todd-huber/</link>
+      <pubDate>Thu, 10 Oct 2024 20:49:44 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/todd-huber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ice-nine-kills</title>
+      <link>https://loudlegends.com/topics/ice-nine-kills/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/ice-nine-kills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>james-hetfield</title>
+      <link>https://loudlegends.com/topics/james-hetfield/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/james-hetfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kirk-hammett</title>
+      <link>https://loudlegends.com/topics/kirk-hammett/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/kirk-hammett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lars-ulrich</title>
+      <link>https://loudlegends.com/topics/lars-ulrich/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/lars-ulrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>limp-bizkit</title>
+      <link>https://loudlegends.com/topics/limp-bizkit/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/limp-bizkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metal</title>
+      <link>https://loudlegends.com/topics/metal/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metallica</title>
+      <link>https://loudlegends.com/topics/metallica/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/metallica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pantera</title>
+      <link>https://loudlegends.com/topics/pantera/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/pantera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robert-trujillo</title>
+      <link>https://loudlegends.com/topics/robert-trujillo/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/robert-trujillo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rock</title>
+      <link>https://loudlegends.com/topics/rock/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sick-new-world</title>
+      <link>https://loudlegends.com/topics/sick-new-world/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/sick-new-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sonic-temple</title>
+      <link>https://loudlegends.com/topics/sonic-temple/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/sonic-temple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suicidal-tendencies</title>
+      <link>https://loudlegends.com/topics/suicidal-tendencies/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/suicidal-tendencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thrash-metal</title>
+      <link>https://loudlegends.com/topics/thrash-metal/</link>
+      <pubDate>Thu, 10 Oct 2024 20:04:56 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/thrash-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>christian-rock</title>
+      <link>https://loudlegends.com/topics/christian-rock/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/christian-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>john-cooper</title>
+      <link>https://loudlegends.com/topics/john-cooper/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/john-cooper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paramore</title>
+      <link>https://loudlegends.com/topics/paramore/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/paramore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pink</title>
+      <link>https://loudlegends.com/topics/pink/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/pink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rock-music</title>
+      <link>https://loudlegends.com/topics/rock-music/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/rock-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sebastian-bach</title>
+      <link>https://loudlegends.com/topics/sebastian-bach/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/sebastian-bach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seether</title>
+      <link>https://loudlegends.com/topics/seether/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/seether/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skillet</title>
+      <link>https://loudlegends.com/topics/skillet/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/skillet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tim-montana</title>
+      <link>https://loudlegends.com/topics/tim-montana/</link>
+      <pubDate>Thu, 10 Oct 2024 19:33:24 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/tim-montana/</guid>
       <description></description>
     </item>
     

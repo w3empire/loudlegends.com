@@ -28,7 +28,7 @@ function search(ps_searchQuery) {
     if (ps_searchQuery.length) {
         var documentLang = document.documentElement.lang;
         var searchURL = "";
-        if (documentLang == "pt-BR" || documentLang == "pt") {
+        if (documentLang == "en-US" || documentLang == "en") {
             searchURL = "/search/?q=" + encodeURIComponent(ps_searchQuery);
         } else {
             searchURL = "/" + documentLang + "/search/?q=" + encodeURIComponent(ps_searchQuery);
