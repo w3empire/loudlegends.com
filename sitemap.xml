@@ -2,23 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://loudlegends.com/authors/</loc>
-    <lastmod>2024-10-12T00:46:05-03:00</lastmod>
+    <loc>https://loudlegends.com/topics/alternative-metal/</loc>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/news/</loc>
-    <lastmod>2024-10-12T00:46:05-03:00</lastmod>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
+  </url><url>
+    <loc>https://loudlegends.com/topics/jonathan-davis/</loc>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
+  </url><url>
+    <loc>https://loudlegends.com/topics/korn/</loc>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
+  </url><url>
+    <loc>https://loudlegends.com/news/korn-s-debut-album-turns-30-jonathan-davis-reflects-on-the-band-s-legacy/</loc>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/topics/</loc>
-    <lastmod>2024-10-12T00:46:05-03:00</lastmod>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/</loc>
-    <lastmod>2024-10-12T00:46:05-03:00</lastmod>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/topics/metal/</loc>
-    <lastmod>2024-10-12T00:46:05-03:00</lastmod>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
   </url><url>
-    <loc>https://loudlegends.com/authors/orion-duarte/</loc>
-    <lastmod>2024-10-12T00:46:05-03:00</lastmod>
+    <loc>https://loudlegends.com/topics/nu-metal/</loc>
+    <lastmod>2024-10-12T23:04:09-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/topics/seven-hours-after-violet/</loc>
     <lastmod>2024-10-12T00:46:05-03:00</lastmod>
@@ -35,9 +44,6 @@
     <loc>https://loudlegends.com/topics/creed/</loc>
     <lastmod>2024-10-11T20:04:02-03:00</lastmod>
   </url><url>
-    <loc>https://loudlegends.com/topics/news/</loc>
-    <lastmod>2024-10-11T20:04:02-03:00</lastmod>
-  </url><url>
     <loc>https://loudlegends.com/topics/rock/</loc>
     <lastmod>2024-10-11T20:04:02-03:00</lastmod>
   </url><url>
@@ -45,9 +51,6 @@
     <lastmod>2024-10-11T20:04:02-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/topics/scott-stapp/</loc>
-    <lastmod>2024-10-11T20:04:02-03:00</lastmod>
-  </url><url>
-    <loc>https://loudlegends.com/authors/tobias-romero/</loc>
     <lastmod>2024-10-11T20:04:02-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/topics/black-metal/</loc>
@@ -66,9 +69,6 @@
     <lastmod>2024-10-11T16:44:52-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/topics/gothic-metal/</loc>
-    <lastmod>2024-10-11T16:44:52-03:00</lastmod>
-  </url><url>
-    <loc>https://loudlegends.com/authors/griffin-kozlowski/</loc>
     <lastmod>2024-10-11T16:44:52-03:00</lastmod>
   </url><url>
     <loc>https://loudlegends.com/topics/agnostic-front/</loc>
@@ -125,9 +125,6 @@
     <loc>https://loudlegends.com/topics/sick-new-world/</loc>
     <lastmod>2024-10-10T20:04:56-03:00</lastmod>
   </url><url>
-    <loc>https://loudlegends.com/authors/silas-johansson/</loc>
-    <lastmod>2024-10-10T20:04:56-03:00</lastmod>
-  </url><url>
     <loc>https://loudlegends.com/topics/sonic-temple/</loc>
     <lastmod>2024-10-10T20:04:56-03:00</lastmod>
   </url><url>
@@ -170,9 +167,6 @@
     <loc>https://loudlegends.com/topics/joey-jordison/</loc>
     <lastmod>2024-09-25T04:40:32-03:00</lastmod>
   </url><url>
-    <loc>https://loudlegends.com/topics/nu-metal/</loc>
-    <lastmod>2024-09-25T04:40:32-03:00</lastmod>
-  </url><url>
     <loc>https://loudlegends.com/topics/slipknot/</loc>
     <lastmod>2024-09-25T04:40:32-03:00</lastmod>
   </url><url>
@@ -184,12 +178,6 @@
   </url><url>
     <loc>https://loudlegends.com/institutional/</loc>
     <lastmod>2024-08-30T22:45:41-03:00</lastmod>
-  </url><url>
-    <loc>https://loudlegends.com/authors/atticus-novak/</loc>
-  </url><url>
-    <loc>https://loudlegends.com/authors/levi-morel/</loc>
-  </url><url>
-    <loc>https://loudlegends.com/authors/magnus-ferreira/</loc>
   </url><url>
     <loc>https://loudlegends.com/search/</loc>
   </url>
