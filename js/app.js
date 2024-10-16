@@ -20,3 +20,20 @@ function loadYTVideo() {
         effectTime: 1000
     });
 }
+
+function updateDate() {
+    const now = new Date();
+    const options = {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+    };
+
+    const formattedDate = now.toLocaleDateString(undefined, options);
+
+    document.getElementById('datetime').textContent = formattedDate;
+}
+
+// Initial call to display the date immediately
+updateDate();
