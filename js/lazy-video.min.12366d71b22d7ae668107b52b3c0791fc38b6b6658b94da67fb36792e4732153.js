@@ -1,0 +1,1 @@
+const lazyVideos=document.querySelectorAll("video[data-src]");if("IntersectionObserver"in window){const e=new IntersectionObserver((e,t)=>{e.forEach(e=>{if(e.isIntersecting){const n=e.target;n.dataset.src&&(n.src=n.dataset.src),n.querySelectorAll("source[data-src]").forEach(e=>{e.src=e.dataset.src}),n.load(),t.unobserve(n)}})},{threshold:.01});lazyVideos.forEach(t=>e.observe(t))}
