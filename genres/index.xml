@@ -6,7 +6,25 @@
     <description>Recent content in Explore All Rock, Metal &amp; Punk Genres in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Jun 2025 11:00:00 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2025 12:00:00 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>heavy-metal</title>
+      <link>https://loudlegends.com/genres/heavy-metal/</link>
+      <pubDate>Mon, 23 Jun 2025 12:00:00 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metalcore</title>
+      <link>https://loudlegends.com/genres/metalcore/</link>
+      <pubDate>Mon, 23 Jun 2025 12:00:00 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/metalcore/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>alternative-metal</title>
       <link>https://loudlegends.com/genres/alternative-metal/</link>
@@ -98,15 +116,6 @@
     </item>
     
     <item>
-      <title>heavy-metal</title>
-      <link>https://loudlegends.com/genres/heavy-metal/</link>
-      <pubDate>Sun, 22 Jun 2025 18:52:42 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>thrash-metal</title>
       <link>https://loudlegends.com/genres/thrash-metal/</link>
       <pubDate>Sun, 22 Jun 2025 18:52:42 -0300</pubDate>
@@ -148,15 +157,6 @@
       <pubDate>Sat, 21 Jun 2025 12:40:25 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/country-rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>metalcore</title>
-      <link>https://loudlegends.com/genres/metalcore/</link>
-      <pubDate>Sat, 21 Jun 2025 12:09:28 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/metalcore/</guid>
       <description></description>
     </item>
     
