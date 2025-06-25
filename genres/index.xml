@@ -6,22 +6,31 @@
     <description>Recent content in Explore All Rock, Metal &amp; Punk Genres in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jun 2025 18:59:36 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jun 2025 19:27:06 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>heavy-metal</title>
+      <link>https://loudlegends.com/genres/heavy-metal/</link>
+      <pubDate>Wed, 25 Jun 2025 19:27:06 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thrash-metal</title>
+      <link>https://loudlegends.com/genres/thrash-metal/</link>
+      <pubDate>Wed, 25 Jun 2025 19:27:06 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/thrash-metal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hard-rock</title>
       <link>https://loudlegends.com/genres/hard-rock/</link>
       <pubDate>Wed, 25 Jun 2025 18:59:36 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/hard-rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>heavy-metal</title>
-      <link>https://loudlegends.com/genres/heavy-metal/</link>
-      <pubDate>Wed, 25 Jun 2025 18:59:36 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
       <description></description>
     </item>
     
@@ -58,15 +67,6 @@
       <pubDate>Wed, 25 Jun 2025 13:43:00 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/blues-rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thrash-metal</title>
-      <link>https://loudlegends.com/genres/thrash-metal/</link>
-      <pubDate>Wed, 25 Jun 2025 13:13:42 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/thrash-metal/</guid>
       <description></description>
     </item>
     
