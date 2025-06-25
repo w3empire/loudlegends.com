@@ -6,7 +6,25 @@
     <description>Recent content in Explore All Rock, Metal &amp; Punk Genres in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Jun 2025 21:00:00 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jun 2025 21:36:04 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>classic-rock</title>
+      <link>https://loudlegends.com/genres/classic-rock/</link>
+      <pubDate>Tue, 24 Jun 2025 21:36:04 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/classic-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hard-rock</title>
+      <link>https://loudlegends.com/genres/hard-rock/</link>
+      <pubDate>Tue, 24 Jun 2025 21:36:04 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/hard-rock/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>alternative-rock</title>
       <link>https://loudlegends.com/genres/alternative-rock/</link>
@@ -31,15 +49,6 @@
       <pubDate>Tue, 24 Jun 2025 21:00:00 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/punk-rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hard-rock</title>
-      <link>https://loudlegends.com/genres/hard-rock/</link>
-      <pubDate>Tue, 24 Jun 2025 20:00:00 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/hard-rock/</guid>
       <description></description>
     </item>
     
@@ -166,15 +175,6 @@
       <pubDate>Mon, 23 Jun 2025 08:00:00 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/symphonic-metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>classic-rock</title>
-      <link>https://loudlegends.com/genres/classic-rock/</link>
-      <pubDate>Mon, 23 Jun 2025 02:00:00 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/classic-rock/</guid>
       <description></description>
     </item>
     
