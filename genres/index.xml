@@ -6,22 +6,40 @@
     <description>Recent content in Explore All Rock, Metal &amp; Punk Genres in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Jun 2025 18:47:38 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 12:54:23 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>heavy-metal</title>
-      <link>https://loudlegends.com/genres/heavy-metal/</link>
-      <pubDate>Sun, 29 Jun 2025 18:47:38 -0300</pubDate>
+      <title>death-metal</title>
+      <link>https://loudlegends.com/genres/death-metal/</link>
+      <pubDate>Mon, 30 Jun 2025 12:54:23 -0300</pubDate>
       
-      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
+      <guid>https://loudlegends.com/genres/death-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>groove-metal</title>
+      <link>https://loudlegends.com/genres/groove-metal/</link>
+      <pubDate>Mon, 30 Jun 2025 12:54:23 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/groove-metal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thrash-metal</title>
       <link>https://loudlegends.com/genres/thrash-metal/</link>
-      <pubDate>Sun, 29 Jun 2025 18:47:38 -0300</pubDate>
+      <pubDate>Mon, 30 Jun 2025 12:54:23 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/thrash-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heavy-metal</title>
+      <link>https://loudlegends.com/genres/heavy-metal/</link>
+      <pubDate>Sun, 29 Jun 2025 18:47:38 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
       <description></description>
     </item>
     
@@ -350,15 +368,6 @@
     </item>
     
     <item>
-      <title>groove-metal</title>
-      <link>https://loudlegends.com/genres/groove-metal/</link>
-      <pubDate>Tue, 24 Jun 2025 02:06:00 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/groove-metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>dark-synth-pop</title>
       <link>https://loudlegends.com/genres/dark-synth-pop/</link>
       <pubDate>Mon, 23 Jun 2025 15:00:00 -0300</pubDate>
@@ -454,15 +463,6 @@
       <pubDate>Wed, 18 Jun 2025 14:48:24 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/experimental-rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>death-metal</title>
-      <link>https://loudlegends.com/genres/death-metal/</link>
-      <pubDate>Wed, 18 Jun 2025 14:26:08 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/death-metal/</guid>
       <description></description>
     </item>
     
