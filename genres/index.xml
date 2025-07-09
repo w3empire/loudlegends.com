@@ -6,7 +6,34 @@
     <description>Recent content in Explore All Rock, Metal &amp; Punk Genres in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Jul 2025 08:42:52 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 16:22:51 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>acoustic-rock</title>
+      <link>https://loudlegends.com/genres/acoustic-rock/</link>
+      <pubDate>Wed, 09 Jul 2025 16:22:51 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/acoustic-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heavy-metal</title>
+      <link>https://loudlegends.com/genres/heavy-metal/</link>
+      <pubDate>Wed, 09 Jul 2025 16:22:51 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nu-metal</title>
+      <link>https://loudlegends.com/genres/nu-metal/</link>
+      <pubDate>Wed, 09 Jul 2025 16:22:51 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/nu-metal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>classic-rock</title>
       <link>https://loudlegends.com/genres/classic-rock/</link>
@@ -22,15 +49,6 @@
       <pubDate>Wed, 09 Jul 2025 08:42:52 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/hard-rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>heavy-metal</title>
-      <link>https://loudlegends.com/genres/heavy-metal/</link>
-      <pubDate>Wed, 09 Jul 2025 08:42:52 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
       <description></description>
     </item>
     
@@ -103,15 +121,6 @@
       <pubDate>Mon, 07 Jul 2025 15:12:38 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/alternative-metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nu-metal</title>
-      <link>https://loudlegends.com/genres/nu-metal/</link>
-      <pubDate>Mon, 07 Jul 2025 15:12:38 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/nu-metal/</guid>
       <description></description>
     </item>
     
