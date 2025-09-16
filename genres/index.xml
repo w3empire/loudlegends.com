@@ -6,13 +6,31 @@
     <description>Recent content in Explore All Rock, Metal &amp; Punk Genres in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Sep 2025 14:36:59 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 09:55:10 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hard-rock</title>
       <link>https://loudlegends.com/genres/hard-rock/</link>
-      <pubDate>Thu, 11 Sep 2025 14:36:59 -0300</pubDate>
+      <pubDate>Tue, 16 Sep 2025 09:55:10 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/hard-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metal</title>
+      <link>https://loudlegends.com/genres/metal/</link>
+      <pubDate>Tue, 16 Sep 2025 09:55:10 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rock: Latest News, Reviews, Interviews &amp; Videos</title>
+      <link>https://loudlegends.com/genres/rock/</link>
+      <pubDate>Tue, 16 Sep 2025 09:55:10 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/rock/</guid>
       <description></description>
     </item>
     
@@ -197,15 +215,6 @@
     </item>
     
     <item>
-      <title>Rock: Latest News, Reviews, Interviews &amp; Videos</title>
-      <link>https://loudlegends.com/genres/rock/</link>
-      <pubDate>Wed, 23 Jul 2025 16:37:54 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>garage-rock</title>
       <link>https://loudlegends.com/genres/garage-rock/</link>
       <pubDate>Mon, 21 Jul 2025 15:38:05 -0300</pubDate>
@@ -256,15 +265,6 @@
       <pubDate>Wed, 16 Jul 2025 04:37:25 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/metalcore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>metal</title>
-      <link>https://loudlegends.com/genres/metal/</link>
-      <pubDate>Tue, 15 Jul 2025 04:48:43 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/metal/</guid>
       <description></description>
     </item>
     
