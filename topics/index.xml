@@ -6,22 +6,40 @@
     <description>Recent content in Loud Legends: All Our Rock &amp; Metal Topics in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 23:24:02 -0300</lastBuildDate><atom:link href="https://loudlegends.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 17:00:45 -0300</lastBuildDate><atom:link href="https://loudlegends.com/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>lineup-changes</title>
-      <link>https://loudlegends.com/topics/lineup-changes/</link>
-      <pubDate>Mon, 05 Jan 2026 23:24:02 -0300</pubDate>
+      <title>festivals</title>
+      <link>https://loudlegends.com/topics/festivals/</link>
+      <pubDate>Tue, 06 Jan 2026 17:00:45 -0300</pubDate>
       
-      <guid>https://loudlegends.com/topics/lineup-changes/</guid>
+      <guid>https://loudlegends.com/topics/festivals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interviews</title>
+      <link>https://loudlegends.com/topics/interviews/</link>
+      <pubDate>Tue, 06 Jan 2026 17:00:45 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/interviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>new-music</title>
       <link>https://loudlegends.com/topics/new-music/</link>
-      <pubDate>Mon, 05 Jan 2026 23:24:02 -0300</pubDate>
+      <pubDate>Tue, 06 Jan 2026 17:00:45 -0300</pubDate>
       
       <guid>https://loudlegends.com/topics/new-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lineup-changes</title>
+      <link>https://loudlegends.com/topics/lineup-changes/</link>
+      <pubDate>Mon, 05 Jan 2026 23:24:02 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/lineup-changes/</guid>
       <description></description>
     </item>
     
@@ -40,15 +58,6 @@
       <pubDate>Mon, 05 Jan 2026 22:44:51 -0300</pubDate>
       
       <guid>https://loudlegends.com/topics/anniversary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interviews</title>
-      <link>https://loudlegends.com/topics/interviews/</link>
-      <pubDate>Mon, 05 Jan 2026 22:44:51 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/topics/interviews/</guid>
       <description></description>
     </item>
     
@@ -238,15 +247,6 @@
       <pubDate>Mon, 01 Sep 2025 00:03:09 -0300</pubDate>
       
       <guid>https://loudlegends.com/topics/songwriting-credits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>festivals</title>
-      <link>https://loudlegends.com/topics/festivals/</link>
-      <pubDate>Sun, 31 Aug 2025 21:49:19 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/topics/festivals/</guid>
       <description></description>
     </item>
     

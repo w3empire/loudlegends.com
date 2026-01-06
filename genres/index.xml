@@ -6,13 +6,31 @@
     <description>Recent content in Explore All Rock, Metal &amp; Punk Genres in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 23:24:02 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 17:00:45 -0300</lastBuildDate><atom:link href="https://loudlegends.com/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blues-rock</title>
+      <link>https://loudlegends.com/genres/blues-rock/</link>
+      <pubDate>Tue, 06 Jan 2026 17:00:45 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/blues-rock/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hard-rock</title>
       <link>https://loudlegends.com/genres/hard-rock/</link>
-      <pubDate>Mon, 05 Jan 2026 23:24:02 -0300</pubDate>
+      <pubDate>Tue, 06 Jan 2026 17:00:45 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/hard-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heavy-metal</title>
+      <link>https://loudlegends.com/genres/heavy-metal/</link>
+      <pubDate>Tue, 06 Jan 2026 17:00:45 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
       <description></description>
     </item>
     
@@ -40,15 +58,6 @@
       <pubDate>Mon, 05 Jan 2026 22:44:51 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/glam-metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>heavy-metal</title>
-      <link>https://loudlegends.com/genres/heavy-metal/</link>
-      <pubDate>Mon, 05 Jan 2026 22:44:51 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/heavy-metal/</guid>
       <description></description>
     </item>
     
@@ -148,15 +157,6 @@
       <pubDate>Sun, 31 Aug 2025 04:22:13 -0300</pubDate>
       
       <guid>https://loudlegends.com/genres/death-metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blues-rock</title>
-      <link>https://loudlegends.com/genres/blues-rock/</link>
-      <pubDate>Sat, 30 Aug 2025 17:01:09 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/genres/blues-rock/</guid>
       <description></description>
     </item>
     
