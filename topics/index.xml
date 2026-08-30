@@ -6,22 +6,40 @@
     <description>Recent content in Loud Legends: All Our Rock &amp; Metal Topics in One Place on Loud Legends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 03:57:15 -0300</lastBuildDate><atom:link href="https://loudlegends.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 15:12:26 -0300</lastBuildDate><atom:link href="https://loudlegends.com/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>new-album</title>
-      <link>https://loudlegends.com/topics/new-album/</link>
-      <pubDate>Thu, 27 Aug 2026 03:57:15 -0300</pubDate>
+      <title>interviews</title>
+      <link>https://loudlegends.com/topics/interviews/</link>
+      <pubDate>Sun, 30 Aug 2026 15:12:26 -0300</pubDate>
       
-      <guid>https://loudlegends.com/topics/new-album/</guid>
+      <guid>https://loudlegends.com/topics/interviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>new-music</title>
       <link>https://loudlegends.com/topics/new-music/</link>
-      <pubDate>Thu, 27 Aug 2026 03:57:15 -0300</pubDate>
+      <pubDate>Sun, 30 Aug 2026 15:12:26 -0300</pubDate>
       
       <guid>https://loudlegends.com/topics/new-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upcoming-albums</title>
+      <link>https://loudlegends.com/topics/upcoming-albums/</link>
+      <pubDate>Sun, 30 Aug 2026 15:12:26 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/upcoming-albums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new-album</title>
+      <link>https://loudlegends.com/topics/new-album/</link>
+      <pubDate>Thu, 27 Aug 2026 03:57:15 -0300</pubDate>
+      
+      <guid>https://loudlegends.com/topics/new-album/</guid>
       <description></description>
     </item>
     
@@ -94,15 +112,6 @@
       <pubDate>Tue, 06 Jan 2026 17:00:45 -0300</pubDate>
       
       <guid>https://loudlegends.com/topics/festivals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interviews</title>
-      <link>https://loudlegends.com/topics/interviews/</link>
-      <pubDate>Tue, 06 Jan 2026 17:00:45 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/topics/interviews/</guid>
       <description></description>
     </item>
     
@@ -2038,15 +2047,6 @@
       <pubDate>Fri, 20 Jun 2025 11:00:00 -0300</pubDate>
       
       <guid>https://loudlegends.com/topics/tribute-concerts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>upcoming-albums</title>
-      <link>https://loudlegends.com/topics/upcoming-albums/</link>
-      <pubDate>Fri, 20 Jun 2025 10:03:42 -0300</pubDate>
-      
-      <guid>https://loudlegends.com/topics/upcoming-albums/</guid>
       <description></description>
     </item>
     
